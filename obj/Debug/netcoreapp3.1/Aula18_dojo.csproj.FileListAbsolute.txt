@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\bin\Debug\netcoreapp3.1\Aula18_dojo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\Aula18_dojo\obj\Debug\netcoreapp3.1\Aula18_dojo.genruntimeconfig.cache
